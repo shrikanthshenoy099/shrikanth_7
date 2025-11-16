@@ -1,4 +1,4 @@
 # shrikanth_7
 this is first repository
 <br>
-by shrikanth
+by shrikanth shenoy
